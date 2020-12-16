@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HTML Images</title>
+<body>
+  <img src="map.jpg" alt="shape Map"usemap="#map">
+  <map name="map">
+    <area shape="rect" coords="71,48,312,197" href="#">
+    <area shape="circle" coords="504,137,75" href="#">
+    <area shape="poly" coords= "202,264,126,413,278,412" href="#">
+    <area shape="poly" coords= "722,22,702,86,633,104,699,124,722,183,743,124,
+                                808,105,743,124,83"href="#">
+    <area shape="rect" coords="46,67,244,110" href="#">
+    <area shape="circle" coords="365,73,439,72"href="#">
+    <area shape="poly" coords="589,35,544,65,562,113,617,112,633,66" href="#">
+    < area shape="poly" coords="788,36,738,58,739,106,
+                                790,125,841,103,839,62" href="#">  
+
+
+
+
+
+  </map>
+ </body>
+</html>
