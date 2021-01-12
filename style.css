@@ -1,0 +1,58 @@
+<style type="text/css"> 
+
+html {scroll-behavior:smooth;
+}
+
+body{
+	font-family: time new roman;
+	display: flex;
+    margin: 0;
+    }
+
+#main-doc{
+    position: absolute;
+    padding: 1rem;
+    margin-left: 210;
+    background-color: black;
+    color:white;
+    font-size: 16px;
+    
+	
+} 
+
+#navbar {
+	background-color:#red;
+	padding:20px;
+	text-align:left;
+	border-right:2px solid #777;
+	background-color:blue;
+    width: 180px;
+    height: 1000;
+    position:fixed;
+}
+
+nav a {
+	color:white;
+	display:block;
+	padding:6px;
+    text-decoration: none;
+    border: 1.5px solid black;
+}
+
+
+section{
+	padding:15px;
+	line-height: 2;
+	
+
+}
+
+header{
+	font-size:24px;
+	font-weight:500;
+    color:red;
+	}
+
+
+
+
